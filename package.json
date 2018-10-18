@@ -1,0 +1,21 @@
+{
+    "fullname": "lib.xinabox.ah01",
+    "git_pointer": "zerynth://xinabox/zerynth-AH01",
+    "title": "XinaBox AH01",
+    "description": "Module for XinaBox AH01 supporting Microchip ATECC508A",
+    "keywords": [
+        "microchip",
+        "crypto",
+        "atecc",
+        "xinabox",
+        "ATECC508A"
+    ],
+    "info":{
+    	"chip_manufacturer":"XinaBox",
+    	"chip_name":"AH01",
+        "name":"Microchip ATECCx08A Library",
+        "type":"Hardware Security" 
+    },
+    "repo": "official",
+    "version": "r2.1.2"
+}
