@@ -1,2 +1,2 @@
-ATECCx08A Device library
+zerynth-ah01
 ============
