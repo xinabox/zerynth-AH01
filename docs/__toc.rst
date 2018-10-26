@@ -4,5 +4,5 @@
     .. toctree::
        :maxdepth: 2
 
-       docs_ateccx08a
+       docs_ah01
 
